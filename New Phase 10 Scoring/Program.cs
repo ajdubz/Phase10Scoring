@@ -23,6 +23,7 @@ namespace New_Phase_10_Scoring
             Application.SetCompatibleTextRenderingDefault(false);
             
 
+
             AskForNames();
             Application.Run(new DisplayScores());
         }

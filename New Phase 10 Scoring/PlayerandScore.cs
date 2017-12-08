@@ -13,6 +13,7 @@ namespace New_Phase_10_Scoring
         public static int totalPlayers;
         public static bool bGameOver;
 
+
         public string playerName;
         public int playerPhase;
         public int playerScore;

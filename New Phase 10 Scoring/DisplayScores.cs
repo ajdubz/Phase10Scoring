@@ -43,7 +43,6 @@ namespace New_Phase_10_Scoring
             lPlayerRankTemp = PlayerandScore.UpdateRanks();
 
 
-
             firstPlaceName.Text = lPlayerRankTemp[0].playerName;
             secondPlaceName.Text = lPlayerRankTemp[1].playerName;
             thirdPlaceName.Text = lPlayerRankTemp[2].playerName;
